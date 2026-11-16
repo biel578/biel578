@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Araújo 👋
  
-Computer Science student @ CESAR School
+Computer Science student at CESAR School
  
 I like understanding how systems work, and how they break. I'm currently learning how to attack and defend software.
  
